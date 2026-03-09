@@ -20,3 +20,6 @@ Clone the repository and run the challenges to improve your skills.
 ## Future Plans
 - Add more challenges
 - Implement additional features
+
+## Current Status
+This project is actively maintained, and contributions are welcome!
